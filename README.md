@@ -9,4 +9,4 @@ Features
 3. Responsive Design: The clock adjusts its layout based on the screen size, ensuring a great user experience on all devices.
 
 ###Implementation Details
-# The project uses JavaScript to get the current time and calculate the rotation of the clock hands. The setInterval function is used to update the clock every second.
+The project uses JavaScript to get the current time and calculate the rotation of the clock hands. The setInterval function is used to update the clock every second.
